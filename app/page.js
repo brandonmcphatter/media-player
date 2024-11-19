@@ -7,7 +7,7 @@ export default function Home() {
                 <div>
                 </div>
             </nav>
-            <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-yellow-300">
+            <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-yellow-200">
                 <div className={"justify-center content-center my-auto"}>
                     <div className={'mb-2 ps-8'}>
                         <p className={'text-gray-800'}>Maybe Not</p>
